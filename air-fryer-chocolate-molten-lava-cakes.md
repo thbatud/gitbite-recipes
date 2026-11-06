@@ -1,7 +1,7 @@
 ---
 title: Air Fryer Chocolate Molten Lava Cakes
 servings_count: 2
-servings_text: "2"
+servings_text: 2
 source: https://www.myforkinglife.com/chocolate-molten-lava-cakes/
 image: air-fryer-chocolate-molten-lava-cakes.jpg
 ---
@@ -13,7 +13,7 @@ image: air-fryer-chocolate-molten-lava-cakes.jpg
 ## Ingredients
 
 - 3 Tablespoon unsalted butter cut into pieces
-- 2 oz (60g) semi-sweet chocolate bar broken into pieces
+- 60g semi-sweet chocolate bar broken into pieces
 - 1 medium egg
 - 1.5 Tablespoons white sugar
 - ¼ teaspoon vanilla extract
@@ -21,6 +21,7 @@ image: air-fryer-chocolate-molten-lava-cakes.jpg
 - pinch of salt
 
 ### Equipment
+
 - Air Fryer
 - 2 Muffin formen
 
