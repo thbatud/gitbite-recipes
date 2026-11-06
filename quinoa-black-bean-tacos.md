@@ -1,0 +1,50 @@
+---
+title: Quinoa Black Bean Tacos
+tags: [breakfast, fast, veggie]
+servings_count: 6
+servings_text: "about 6 hearty tacos"
+source: https://cookieandkate.com/quinoa-black-bean-tacos-recipe/
+image: quinoa-black-bean-tacos.jpg
+---
+
+# Quinoa Black Bean Tacos
+
+![](quinoa-black-bean-tacos.jpg)
+
+## Ingredients
+
+### Quinoa and black bean filling
+- 1 tablespoon olive oil
+- 1 cup chopped red onion
+- 2 large garlic cloves, pressed or minced
+- 3 tablespoons tomato paste
+- 1 teaspoon ground cumin
+- ½ teaspoon ground chili powder
+- ½ cup uncooked quinoa, rinsed well in a fine mesh colander
+- 400ml vegetable broth or water
+- 1 (14 ounce) can black beans or 1 ½ cups cooked black beans, rinsed and drained
+- ¼ to ½ teaspoon salt, to taste
+- Freshly ground black pepper, to taste
+
+### Avocado sauce
+- 1 large avocado, sliced into long strips
+- 1 to 2 medium limes, juiced
+- 1 medium jalapeño, deseeded, membranes removed and roughly chopped
+- 1 handful fresh cilantro
+- ¼ teaspoon salt
+
+### Everything else
+- 6 to 8 small, round corn tortillas (certified gluten-free if necessary)
+- 1 ½ cups roughly chopped romaine lettuce or spring greens
+- Optional garnishes: pickled jalapeños or radishes, crumbled feta cheese
+
+## Instructions
+
+1. To make the filling, warm the olive oil in a medium-sized pot over medium heat. Sauté the onion and garlic with a dash of salt for 4 to 5 minutes, until the onions are softened and turning translucent. Add the tomato paste, cumin and chili powder and sauté for another minute, stirring constantly.
+2. Add the rinsed quinoa and 1 cup broth or water. Bring the mixture to a gentle boil, then cover the pot, reduce heat to a simmer and cook for 15 minutes. Remove the quinoa from heat and let it rest, still covered, for 5 minutes. Uncover the pot, drain off any excess liquid and fluff the quinoa with a fork. Stir in the drained black beans and add salt and pepper, to taste. Cover and set aside for a couple of minutes to warm up the beans.
+3. To make the avocado sauce: Simply combine the ingredients as listed in a food processor or blender. Blend well and season with salt, to taste.
+4. In a large skillet over medium heat, warm the tortillas in a single layer, flipping halfway. Wrap the warmed tortillas with a lint-free tea towel until ready to serve. To assemble the tacos, spread quinoa and black bean filling down the center of the tortilla, then top with a generous drizzle of avocado crema, a handful of chopped romaine and any additional garnishes you’d like to add. Eat up!
+
+## Notes
+
+Recipe inspired by Picasso Cafe in Oklahoma City and adapted from my roasted cauliflower and lentil tacos and southwestern kale power salad.
