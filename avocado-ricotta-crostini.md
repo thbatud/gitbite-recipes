@@ -1,5 +1,7 @@
 ---
 title: Avocado Ricotta Crostini
+servings_count: 4
+servings_text: "4"
 tags: [appetizer, veggie]
 source: https://www.allrecipes.com/recipe/268465/avocado-ricotta-crostini/
 image: avocado-ricotta-crostini.jpg
